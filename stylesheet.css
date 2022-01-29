@@ -1,0 +1,63 @@
+
+.header {
+    background-color: #2f5167;
+    color: #fff;
+    height: 90px;
+  }
+  
+ .header-logo {
+    float: left;
+    font-size: 46px;
+    padding: 20px 40px;
+ }
+ 
+ .header-list{
+    padding: 45px 20px;
+    font-size: 20px;
+  }
+  
+ .submit_button {
+  display       : inline-block;
+  border-radius : 10%;          /* 角丸       */
+  font-size     : 12pt;        /* 文字サイズ */
+  text-align    : center;      /* 文字位置   */
+  cursor        : pointer;     /* カーソル   */
+  padding       : 4px 15px;   /* 余白       */
+  background    : #00007f;     /* 背景色     */
+  color         : #ffffff;     /* 文字色     */
+  line-height   : 1em;         /* 1行の高さ  */
+  transition    : .3s;         /* なめらか変化 */
+  border        : 2px solid #00007f;    /* 枠の指定 */
+}
+.submit_button:hover {
+  color         : #00007f;     /* 背景色     */
+  background    : #ffffff;     /* 文字色     */
+}
+
+.flexbox div{
+border-radius : 5%;          /* 角丸       */
+  color: #FFFFFF;
+  font-size: 20px;
+  background:#5F80AC;
+  margin: 10px 40px;
+  padding: 20px;
+}
+
+.flexbox{
+  display:flex;
+}
+
+body{
+    background     :#F4F5F7;
+}
+
+hr{
+    border-top: 3px double #bbb;  
+}
+
+
+
+
+
+  
+  

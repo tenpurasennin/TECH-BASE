@@ -1,0 +1,9 @@
+.textPassword {
+        border: none; /* デフォルトの枠線を消す */
+      }
+
+.fieldPassword {
+        border-width: thin;
+        border-style: solid;
+        width: 200px;
+      }
